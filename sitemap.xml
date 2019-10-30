@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.syficy.com/2019/10/17/docker%2520%25E4%25B8%258A%25E4%25BC%25A0%25E8%2587%25AA%25E5%25B7%25B1%25E7%259A%2584image%25E5%2588%25B0docker%2520hub/</loc>
+    
+    <lastmod>2019-10-30T13:51:33.634Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.syficy.com/2019/10/06/code-server%2520%25E7%25A9%25B6%25E6%259E%2581%25E8%25B8%25A9%25E5%259D%2591%25E7%2596%2591%25E9%259A%25BE%25E6%259D%2582%25E7%2597%2587%25E5%259B%25B0%25E9%259A%25BE%25E9%2587%258D%25E9%2587%258D%25E7%25AC%2594%25E8%25AE%25B0/</loc>
+    
+    <lastmod>2019-10-30T13:50:38.921Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.syficy.com/2019/10/19/vscode%2520centos%2520remote%2520ssh%2520java/</loc>
     
     <lastmod>2019-10-30T13:42:31.938Z</lastmod>
@@ -82,20 +96,6 @@
     <loc>http://www.syficy.com/2019/10/07/docker%2520%25E6%25B7%25B1%25E5%2585%25A5%2520%25E5%25A4%2587%25E5%25BF%2598%25E7%25AC%2594%25E8%25AE%25B0/</loc>
     
     <lastmod>2019-10-30T13:37:00.186Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.syficy.com/2018/09/01/docker%2520%25E4%25B8%258A%25E4%25BC%25A0%25E8%2587%25AA%25E5%25B7%25B1%25E7%259A%2584image%25E5%2588%25B0docker%2520hub/</loc>
-    
-    <lastmod>2019-10-30T13:36:34.226Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.syficy.com/2018/09/01/code-server%2520%25E7%25A9%25B6%25E6%259E%2581%25E8%25B8%25A9%25E5%259D%2591%25E7%2596%2591%25E9%259A%25BE%25E6%259D%2582%25E7%2597%2587%25E5%259B%25B0%25E9%259A%25BE%25E9%2587%258D%25E9%2587%258D%25E7%25AC%2594%25E8%25AE%25B0/</loc>
-    
-    <lastmod>2019-10-30T13:36:00.997Z</lastmod>
     
   </url>
   
@@ -205,7 +205,7 @@
   </url>
   
   <url>
-    <loc>http://www.syficy.com/2019/10/25/%25E3%2580%2590%25E5%25A4%2587%25E5%25BF%2598%25E3%2580%2591%25E6%25B7%25BB%25E5%258A%25A0%25E5%25BC%2595%25E5%25AF%25BC%25E4%25BB%25A5%25E4%25BD%25BF%25E5%25BE%2597vm%25E5%2592%258Chype-v%25E5%2585%25B1%25E5%25AD%2598/</loc>
+    <loc>http://www.syficy.com/2019/10/25/%25E6%25B7%25BB%25E5%258A%25A0%25E5%25BC%2595%25E5%25AF%25BC%25E4%25BB%25A5%25E4%25BD%25BF%25E5%25BE%2597vm%25E5%2592%258Chype-v%25E5%2585%25B1%25E5%25AD%2598/</loc>
     
     <lastmod>2019-10-30T08:07:31.844Z</lastmod>
     
